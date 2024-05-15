@@ -1,3 +1,5 @@
+[![IMG-20240501-004701-275.jpg](https://i.postimg.cc/wMBLLT6g/IMG-20240501-004701-275.jpg)](https://postimg.cc/8Jq7VGJ0)
+
 # 💫 About Me:
 ¡Hola! Soy de Perú, tengo 15 años, a pesar de mi corta edad estoy dispuesto a aprender mas.
 

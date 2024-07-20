@@ -1,8 +1,7 @@
 [![Polish-20240515-052626252.jpg](https://i.postimg.cc/DfWqv0YP/Polish-20240515-052626252.jpg)](https://postimg.cc/Bt08NS3j)
 
-# 💫 Acerca de mí:
-¡Hola! Soy de Perú, tengo 15 años, a pesar de mi corta edad estoy dispuesto a aprender mas.
-
+## DyrKom Profile
+<a href="https://github.com/DyrKom"><img src="https://cardivo.vercel.app/api?name=DyrKom&description=©+2024+Anime+&+Onigiri+All+rights+reserved&image=https://telegra.ph/file/756772d600ceca3bb67d1.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=DyrKom&whatsapp=DyrKom&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
 ## 🌐 Redes sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@AnimeAndOnigiri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anime_and_onigiri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AnimeAndOnigiri) 

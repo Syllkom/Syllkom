@@ -2,12 +2,12 @@
 <a href="https://github.com/DyrKom"><img src="https://cardivo.vercel.app/api?name=DyrKom&description=©+2024+Anime+And+Onigiri+All+rights+reserved&image=https://telegra.ph/file/756772d600ceca3bb67d1.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=Dyr_Kom&whatsapp=Dyr_Kom&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
 ## 🌐 Redes sociales:
-<a href="https://instagram.com/naze_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
-<a href="https://wa.me/message/NWL4BNB6JPN3H1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://t.me/nazedev"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/tu_perfil"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
-<a href="https://www.threads.net/@tu_perfil"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a> 
-<a href="https://www.youtube.com/c/tu_perfil"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://instagram.com/dyr_kom"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+<a href="https://wa.me/51933479416"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://t.me/Dyr_Kom"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.facebook.com/dyrkom"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
+<a href="https://www.threads.net/@dyr_kom"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a> 
+<a href="https://www.youtube.com/c/dyr_kom"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 
 # 💻 Pila tecnológica:

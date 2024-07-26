@@ -2,7 +2,7 @@
 <a href="https://github.com/DyrKom"><img src="https://cardivo.vercel.app/api?name=DyrKom&description=©+2024+Anime+And+Onigiri+All+rights+reserved&image=https://telegra.ph/file/756772d600ceca3bb67d1.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=Dyr_Kom&whatsapp=Dyr_Kom&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
 <p align="center">
-*🌐 Redes sociales:*
+🌐 Redes sociales:
 <br>
 <a href="https://instagram.com/dyr_kom"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 <a href="https://wa.me/51933479416"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -13,7 +13,7 @@
 
 
 <p align="center">
-*💻 Pila tecnológica*
+💻 Pila tecnológica
 <br>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-*📊 Estadísticas de GitHub*
+📊 Estadísticas de GitHub
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=DyrKom&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Estadísticas" />
 <br>

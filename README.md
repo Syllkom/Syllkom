@@ -1,4 +1,4 @@
-## DyrKom Profile
+## Syllkom Profile
 <a href="https://github.com/DyrKom"><img src="https://cardivo.vercel.app/api?name=DyrKom&description=©+2024+Anime+And+Onigiri+All+rights+reserved&image=https://telegra.ph/file/756772d600ceca3bb67d1.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=Dyr_Kom&whatsapp=Dyr_Kom&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
 <p align="center">

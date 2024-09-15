@@ -2,6 +2,13 @@
 <a href="https://github.com/Syllkom"><img src="https://cardivo.vercel.app/api?name=Syllkom&description=©+2024+Anime+And+Onigiri+All+rights+reserved&image=https://telegra.ph/file/756772d600ceca3bb67d1.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=Syllkom&whatsapp=Syllkom&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
 <p align="center">
+🎧 Spotify Song
+ <br>
+<p align="center">
+  <a href="https://open.spotify.com/track/4CxLFo28vcflhgOpmz9pur?si=HjK7RR68S_amJY7OBS8ZDA" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+<p align="center">
 🌐 Redes sociales:
 <br>
 <a href="https://instagram.com/Syllkom"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 

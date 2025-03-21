@@ -1,5 +1,5 @@
 ## Syllkom Profile
-<a href="https://github.com/Syllkom"><img src="https://cardivo.vercel.app/api?name=Syllkom&description=©+2024+Anime+And+Onigiri+All+rights+reserved&image=https://telegra.ph/file/756772d600ceca3bb67d1.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=Syllkom&whatsapp=Syllkom&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/Syllkom"><img src="https://cardivo.vercel.app/api?name=Syllkom&description=©+Syll's+CodeLab+2025.+rights+reserved&image=https://telegra.ph/file/756772d600ceca3bb67d1.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=Syllkom&whatsapp=Syllkom&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
 <p align="center">
 🎧 Spotify Song

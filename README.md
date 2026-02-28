@@ -26,6 +26,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syllkom&theme=tokyonight&hide_border=true&background=09090b&ring=8b5cf6&fire=10b981&currStreakNum=ffffff" width="48%" />
 </p>
 
+  <p><i>My Contribution City (2024-2025):</i></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syllkom&theme=tokyonight" width="100%" />
+  
+  <br>
+
+  <!-- 2. Activity Graph (Grafik Gelombang) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syllkom&theme=tokyo-night&hide_border=true&area=true&color=a970ff" width="100%" alt="Activity Graph" />
+
+  <br><br>
+
 <p align="center">
   <!-- Lenguajes más usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syllkom&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=8b5cf6" width="60%" />

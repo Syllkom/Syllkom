@@ -6,7 +6,7 @@
   </div>
 
   <br>
-  <span>✧ ═══ 🔮 ═══ ✧</span>
+  <span>— — —</span>
   <br>
 
   <p align="center">
@@ -15,19 +15,19 @@
     </a>
   </p>
 
-  <span>✧ ═══ 📊 ═══ ✧</span>
+  <span>— — — — —</span>
   <br>
 
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=Syllkom&theme=tokyonight&hide_border=true&background=0d0d12&ring=8b5cf6&fire=10b981&currStreakNum=ffffff&border_radius=15" width="48%" />
   </p>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syllkom&theme=tokyonight" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syllkom&theme=tokyonight" width="80%" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syllkom&theme=tokyo-night&hide_border=true&area=true&color=a970ff" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syllkom&theme=tokyo-night&hide_border=true&area=true&color=a970ff" width="80%" />
 
   <br>
-  <span>✧ ═══ 🔌 ═══ ✧</span>
+  <kbd><b>Seguime :D</b></kbd>
   <br>
 
   <p align="center">

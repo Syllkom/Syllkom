@@ -1,6 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8b5cf6&height=250&section=header&text=Syllkom&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20Architect%20Behind%20HorekuOs&descAlignY=55&descAlign=50" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="src/assets/logos/reactbits-gh-black.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="src/assets/logos/reactbits-gh-white.svg">
+      <img src="./syllkom.svg" alt="syllkom logo" width="600">
+    </picture>
 
 ### ✦ Full Stack Developer & Bot Architect ✦
 *“Escribiendo código que no duerme para que tú sí puedas.”*

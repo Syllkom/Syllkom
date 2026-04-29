@@ -2,7 +2,7 @@
   <img src="syllkom.svg" alt="syllkom logo" width="600" style="display: block;">
   <div style="margin-top: -15px;">
     <kbd><b>Full Stack Developer & Bot Architect</b></kbd><br>
-    <small><i>“Escribiendo código que no duerme para que tú sí puedas.”</i></small>
+    <small><i>"Escribiendo código que no duerme para que tú sí puedas."</i></small>
   </div>
 
   <br>
@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,flutter&theme=dark&perline=7" />
+      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,astro,react,nextjs,tailwind,flutter&theme=dark&perline=8" />
     </a>
   </p>
 
@@ -27,7 +27,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syllkom&theme=tokyo-night&hide_border=true&area=true&color=a970ff" width="80%" />
 
   <br>
-  <kbd><b>Seguime :D</b></kbd>
+  <kbd><b>Seguime</b></kbd>
   <br>
 
   <p align="center">

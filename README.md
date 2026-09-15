@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="syllkom.svg" alt="syllkom logo" width="600" style="display: block;">
+  <img src="orwyth-logo.svg" alt="syllkom logo" width="600" style="display: block;">
   <div style="margin-top: -15px;">
     <kbd><b>Full Stack Developer & Bot Architect</b></kbd><br>
     <small><i>"Escribiendo código que no duerme para que tú sí puedas."</i></small>

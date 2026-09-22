@@ -24,7 +24,6 @@
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syllkom&theme=tokyonight" width="80%" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syllkom&theme=tokyo-night&hide_border=true&area=true&color=a970ff" width="80%" />
 
   <br>
   <kbd><b>Seguime</b></kbd>

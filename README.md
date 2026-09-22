@@ -30,8 +30,8 @@
   <br>
 
   <p align="center">
-    <a href="https://syllkom.vercel.app"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="https://t.me/Syllkom"><img src="https://img.shields.io/badge/Telegram-09090b?style=for-the-badge&logo=telegram&logoColor=22d3ee" /></a>
-    <a href="https://www.threads.net/@syllkom"><img src="https://img.shields.io/badge/Threads-09090b?style=for-the-badge&logo=threads&logoColor=white" /></a>
+    <a href="https://orwyth.vercel.app"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://t.me/Orwyth"><img src="https://img.shields.io/badge/Telegram-09090b?style=for-the-badge&logo=telegram&logoColor=22d3ee" /></a>
+    <a href="https://www.threads.net/@orwyth"><img src="https://img.shields.io/badge/Threads-09090b?style=for-the-badge&logo=threads&logoColor=white" /></a>
   </p>
 </div>

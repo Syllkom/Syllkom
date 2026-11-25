@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="asse ts/h-stack.svg" alt="01 · Stack" width="100%">
+  <img src="assets/h-stack.svg" alt="01 · Stack" width="100%">
 </p>
 
 <p align="center">

@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <a href="https://orwyth.vercel.app"><img src="assets/c-portfolio.svg" alt="Portfolio" width="32%"></a>
+  <a href="https://orwyth.site"><img src="assets/c-portfolio.svg" alt="Portfolio" width="32%"></a>
   <a href="https://t.me/Orwyth"><img src="assets/c-telegram.svg" alt="Telegram" width="32%"></a>
   <a href="https://www.threads.net/@orwyth"><img src="assets/c-threads.svg" alt="Threads" width="32%"></a>
 </p>

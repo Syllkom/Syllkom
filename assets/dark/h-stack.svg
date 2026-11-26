@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="110" viewBox="0 0 1280 110" role="img" aria-label="Stack"><defs>
+<linearGradient id="si" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".35" stop-color="#c7cacf"/><stop offset=".55" stop-color="#f4f5f6"/><stop offset=".8" stop-color="#8d9198"/><stop offset="1" stop-color="#d9dbde"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity=".08"/></linearGradient>
+<pattern id="sc" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity=".035"/></pattern>
+</defs><rect width="1280" height="110" fill="url(#sc)"/>
+<rect x="0" y="12" width="1280" height="2" fill="url(#ln)"/>
+<text x="0" y="86" font-family="'DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="18" letter-spacing="3" fill="#8d9198">01</text>
+<text x="64" y="90" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="64" font-weight="800" letter-spacing="-2" fill="url(#si)">Stack</text>
+<text x="1280" y="86" font-family="'DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="14" letter-spacing="3" fill="#8d9198" text-anchor="end">LENGUAJES + HERRAMIENTAS</text></svg>
